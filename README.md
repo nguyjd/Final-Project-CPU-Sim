@@ -9,7 +9,7 @@ This is a assignment for our ECGR 2104 class at UNCC.
   <li>Jonathon Nguyen</li>
   <li>Jarrett long</li>
   <li>Marvin Kilgore</li>
-  <li>Matthew Green<li>
+  <li>Matthew Green</li>
 </ul>
 
 # Computer Features
