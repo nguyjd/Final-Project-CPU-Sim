@@ -1,8 +1,9 @@
 #include <iostream>
+#include <iomanip>
 //#include <Bridges.h>
 //#include <SymbolCollection.h>
-
-using namespace std;
+#ifndef SIMPLETRON_H_
+#define SIMPLETRON_H_
 
 const int READ = 10;
 const int WRITE = 11;
@@ -33,7 +34,7 @@ public:
 
 private:
         // declares the member variables
-        void error(string); // Implementation given below
+        void error(std::string); // Implementation given below
         void printmem(); // Implementation given below
         int accumulator;
         int instructionCounter;
@@ -42,3 +43,5 @@ private:
         int instructionRegister;
         int memory[SIZE];
 };
+
+#endif
