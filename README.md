@@ -7,7 +7,7 @@ This is a assignment for our ECGR 2104 class at UNCC.
 <b>Project Members</b>
 <ul>  
   <li>Jonathon Nguyen</li>
-  <li>Jarrett long</li>
+  <li>Jarrett Long</li>
   <li>Marvin Kilgore</li>
   <li>Matthew Green</li>
 </ul>
