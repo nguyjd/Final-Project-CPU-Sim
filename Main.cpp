@@ -2,7 +2,9 @@
 
 int main(){
 	
-	std::cout << "Hello World" << std::endl;
+	Simpletron computer;
+
+	computer.enterSML();
 	
 	return 0;
 	
